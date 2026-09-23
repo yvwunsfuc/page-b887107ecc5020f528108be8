@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shadowrocketdv.com/sitemap.xml

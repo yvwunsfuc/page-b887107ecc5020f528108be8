@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cf9c9ba848fd3834983c9bee",
+  "owner": "yvwunsfuc",
+  "repo": "page-b887107ecc5020f528108be8",
+  "title": "千速喵(TSmeow)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b887107ecc5020f528108be8",
+      "a": "千速喵(TSmeow)",
+      "b": "2027最新官网",
+      "entity": "千速喵(TSmeow)",
+      "brand": "千速喵(TSmeow)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1f03e917c7f7ab5403a054c7c5c833763c6c39383803bbc44b499f8c68742f9e",
+      "content": {
+        "primary_entity": "千速喵(TSmeow)",
+        "keyword1": "千速喵(TSmeow)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，参考对应导入说明完成配置。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的套餐并完成订阅配置，即可在常用设备上使用。",
+          "AI_CLOSING_TITLE": "即刻开始配置",
+          "AI_DESCRIPTION": "，千速喵(TSmeow)提供基础版、旗舰版与团队版三档订阅，分别面向轻度使用、多设备流媒体与团队协作场景。基础版每月100GB流量、3台设备在线，按年付仅需 ¥150/年；旗舰版每月300GB流量、5台设备在线，含IPLC专线游戏加速优化与7x24优先工单支持，按年付仅需 ¥350/年；团队版每月1000GB流量、20台设备在线，提供VIP高带宽节点与企业定制路由，按年付仅需 ¥850/年。选择订阅后根据设备系统配置客户端即可使用。",
+          "AI_FEATURES_INTRO": "围绕套餐流量、设备数量与订阅周期做实际对比，按需选择。",
+          "AI_FEATURES_TITLE": "套餐选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度浏览与基础流媒体，每月100GB、3台设备在线，按年付仅需 ¥150/年。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备在线，含IPLC专线游戏加速优化与优先工单支持，按年付仅需 ¥350/年。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备在线，提供VIP高带宽节点与企业定制路由，按年付仅需 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "基础版：轻量入门",
+          "AI_FEATURE_TITLE_2": "旗舰版：多设备与专线",
+          "AI_FEATURE_TITLE_3": "团队版：高流量与定制",
+          "AI_GUIDE_INTRO": "从选择服务到导入订阅，三步完成千速喵使用准备。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "千速喵(TSmeow)提供海外加速订阅服务，按流量与设备数量划分基础版、旗舰版和团队版，覆盖流媒体、游戏加速与企业定制路由等使用场景，按年付更有相应优惠。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付享对应优惠价格",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备在线，按年付 ¥150/年；旗舰版每月300GB、5台设备在线，含IPLC专线优化与优先工单，按年付 ¥350/年；团队版每月1000GB、20台设备在线，提供VIP高带宽节点与定制路由，按年付 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐流量与设备对比",
+          "AI_STEP_TEXT_1": "根据日常流量、在线设备数量与使用场景，从基础版、旗舰版或团队版中选定合适的订阅。",
+          "AI_STEP_TEXT_2": "确认设备系统与网络环境符合所选套餐的适配要求，并留意不同客户端的导入方式差异。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅信息，完成节点连接与基础网络设置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "千速喵多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线；团队版 1000GB、20 台设备，支持企业定制路由与专属客户经理。",
+          "AI_FAQ_ANSWER_2": "旗舰版与团队版覆盖原生流媒体解锁节点，基础版以普通线路节点池为主，可满足日常浏览与基础流媒体播放。",
+          "AI_FAQ_ANSWER_3": "Windows、macOS、Android、iOS 及 OpenWrt 路由器均有对应客户端方案，按设备平台安装并导入订阅即可使用。",
+          "AI_FAQ_ANSWER_4": "按年付价格分别为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "普通节点池适合日常浏览与流媒体，IPLC 专线对游戏加速和低延迟需求更友好，可按用途选择包含专线的旗舰版或团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与计费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁在哪个套餐里支持？",
+          "AI_FAQ_QUESTION_3": "千速喵支持哪些设备客户端？",
+          "AI_FAQ_QUESTION_4": "按年付是否比按月付更优惠？",
+          "AI_FAQ_QUESTION_5": "IPLC 专线适合什么使用场景？",
+          "AI_FAQ_TITLE": "常见使用问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shadowrocketdv.com",
+    "host": "shadowrocketdv.com"
+  },
+  "file_hashes": {
+    "index.html": "635d82a3cfa9a0407d94c047fa228c3b50abd4e93a41d7a552ac1f2b52983ec5",
+    "sitemap.xml": "2688e01198735b7c580a1b5e9f2d997b6bb1e37558957580d2d5dfe8650baebd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b65dc771a98b4927096718e14fa9225be18471f9f448b7d640a622e8af5254e6",
+    "robots.txt": "d89104c944c56b8e9230b4f122621ef5927271610d0560a411972adcb867e96f",
+    "e75ee5fc9ea009edd4ebf98dbb4c76fb.txt": "60e8a17f02dd21b4b85fa2c96d5f1ad741f570a65656ca5bdf478680d856eadf"
+  },
+  "revision": "7f389314a0e464d99f5564911f8e8f090064e1bc16c8ccf3b7f65b4dce2ebaab"
+}
